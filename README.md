@@ -9,8 +9,7 @@ Esse repositório contém o projeto Unity onde criamos um sistema para que a mú
 <br>
 <br>
 
-Em breve :)
-<!-- Assista ao tutorial <a href="">clicando aqui</a>. -->
+Assista ao tutorial <a href="https://youtu.be/VXJzwaLXivk">clicando aqui</a>.
 
 
 ![Mantendo a música entre as fases - miniatura 01](https://github.com/GabrielChiarelli/tutorial-mantendo-a-musica-entre-as-fases-projeto-unity/assets/102618272/dede8359-e07b-4b47-ba47-c2b207ac4dc9)
